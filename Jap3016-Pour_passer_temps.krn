@@ -1,10 +1,10 @@
-!!!COM:	Japart, Jean
-!!!CDT:	~1450//-~1507//
-!!!OTL:	Pour passer temps
-!!!AGN:	Song; Chanson
-!!!SCT:	Jap3016
-!!!SCA:	Jap3016
-!!!voices:	4
+!!!COM: Japart, Jean
+!!!CDT: ~1450//-~1507//
+!!!OTL: Pour passer temps
+!!!AGN: Song; Chanson
+!!!SCT: Jap3016
+!!!SCA: Jap3016
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -324,9 +324,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 09-18-2013
-!!!END:	2013/10/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/12/19/
-!!!ONB:	Translated from MusicXML and edited on 2013/12/19/ by Craig Sapp
+!!!ENC: Chris Gage 09-18-2013
+!!!END: 2013/10/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/12/19/
+!!!ONB: Translated from MusicXML and edited on 2013/12/19/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v90,85,85,100Q8c120
